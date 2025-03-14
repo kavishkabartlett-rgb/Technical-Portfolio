@@ -4,7 +4,7 @@
 
 My name is Kavishka Bartlett, and I am an undergraduate student at Duke University pursuing a double major in Electrical/Computer Engineering (ECE) and Computer Science (CS) with a minor in Mathmatics. 
 
-This repository showcases projects that demonstrate my proficiency in C, MIPS Assembly, Java, and Logisim, focusing on low-level programming, hardware design, operating system lgoci, and multi-threaded parallel synchronization. Each project includes a detailed README, which include: 
+This repository showcases projects that demonstrate my proficiency in C, MIPS Assembly, Java, and Logisim, focusing on low-level programming, hardware design, operating system logic, and multi-threaded parallel synchronization. Each project includes a detailed README, which include: 
 
 - **Overview:** Brief project description 
 - **Detailed Overview/architecture:** System design, implementation details, and structure
