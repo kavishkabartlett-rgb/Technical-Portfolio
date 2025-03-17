@@ -25,7 +25,7 @@ ALl code is extensively commented to ensure readability and optimal clarity.
 - <big>**Multi-Level Queue Dispatcher**</big> Implemented the logic of a multi-level queue dispatcher using C programming. Calculates performance metrics, directly prevents starvation, and uses both first come first served and round robin algorithms
 - <big>**C Programming: Dynamic Data Handling and Recursive Computation**</big> Coded recursion, iterative and memory mangement methods in C. Worked with file parsing and direct data allocation
 - <big>**Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra**</big> Built Logisim circuits implementing boolean algebra, ripple carry adder/subtractor logic, and finite state moore machine. Used output equations, state transition tables, and D Flip-Flop registers to build the circuits
-- <big>**Markov Text Generator**</big>
+- <big>**Markov Text Generator**</big> 
 - <big>**DNA Manipulation Simulator**</big>
 - <big>**Word Completion Predictor**</big>
 
