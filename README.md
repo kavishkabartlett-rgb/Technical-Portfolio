@@ -17,6 +17,7 @@ This repository showcases projects that demonstrate my proficiency in C, MIPS As
 ALl code is extensively commented to ensure readability and optimal clarity. 
 
 ## Project Summary
+*Projects are listed by decreasing order of complexity*
 
 - <big>**16-Bit CPU Circuit**</big> Built a fully functional 16-bit CPU with only basic logic structures (logic gates, mux, splitters) capable of executing MIPS Assembly programs 
 - <big>**MIPS Assembly Language Programming: Recursion, Computations, and Dynamic Structures:**</big> Wrote 3 programs in MIPS Assembly implementing recursion, iterative, and memory management problem-solving techniques. Each program be run on the 16-bit CPU I built
