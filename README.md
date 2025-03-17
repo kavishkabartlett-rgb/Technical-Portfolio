@@ -9,7 +9,7 @@ This repository showcases projects that demonstrate my proficiency in C, MIPS As
 - **Overview:** Brief project description 
 - **Detailed Overview/architecture:** System design, implementation details, and structure
 - **Skills Used and Key Features:** Important technical concepts, methodologies, and tools used in the project
-- **File Purposes:** Briefly explains the purpose of all files in file dense projects**
+- **File Purposes:** Briefly explains the purpose of all files in file dense projects. Algorithmic files are the most important files, and ordered by level of contribution, complexity and importance**
 - **How to Run the Program:** Setup instructions
 - **Input and Output data:** Required data from the user and the expected results
 - **Next Steps:** Features to add that increase performance, runtime, and program ability
@@ -29,5 +29,5 @@ ALl code is extensively commented to ensure readability and optimal clarity.
 - <big>**Java Programming: Markov Text Generator**</big> Developed and trained predictive text generator model using n-gram Markov chains. Implemented both a brute force and a more efficient HashMap algorithm. Used interfaces, class hierarchy, arraylists, file I/O, and Big O runtime calculations
 - <big>**Java Programming: DNA Manipulation Simulator**</big> Simulated DNA manipulation with separate algorithms using Linked Lists, Strings, and StringBuilders. Had append, cut and slice, reverse, and nucleotideAt methods, as well as performance benchmarks to determine relationship between runtime efficiency and memory usage 
 
-*Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed frameworks, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
-**All files were included in some projects - the README files in those projects distinguish between algorithmic files (containing the actual problem-solving code) and other files (testing, GUI, etc.)
+*Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed framework, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
+**All files were included in some projects - the README files in those projects distinguish between algorithmic files (ordered by importance) and other files (used for testing, GUI, etc.). If data files were used to test my programs, I included them in a separate Data folder 
