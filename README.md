@@ -19,15 +19,15 @@ ALl code is extensively commented to ensure readability and optimal clarity.
 ## Project Summary
 *Projects are listed by decreasing order of complexity*
 
-- <big>**16-Bit CPU Circuit**</big> Built a fully functional 16-bit CPU with only basic logic structures (logic gates, mux, splitters) capable of executing MIPS Assembly programs 
+- <big>**Logisim Engineering: 16-Bit CPU Circuit**</big> Built a fully functional 16-bit CPU with only basic logic structures (logic gates, mux, splitters) capable of executing MIPS Assembly programs
+- <big>**C Programming: Parallel Synchronization in Multi-threaded Lab Simulation**</big> Worked with operating system logic using the pthread.h library in C. Used multiple mutexes and conditional variables to allow threads to run at the exact same time while ensuring accurate data 
 - <big>**MIPS Assembly Language Programming: Recursion, Computations, and Dynamic Structures:**</big> Wrote 3 programs in MIPS Assembly implementing recursion, iterative, and memory management problem-solving techniques. Each program be run on the 16-bit CPU I built
-- <big>**Parallel Synchronization in Multi-threaded Lab Simulation**</big> Worked with operating system logic using the pthread.h library in C. Used multiple mutexes and conditional variables to allow threads to run at the exact same time while ensuring accurate data
-- <big>**Multi-Level Queue Dispatcher**</big> Implemented the logic of a multi-level queue dispatcher using C programming. Calculates performance metrics, directly prevents starvation, and uses both first come first served and round robin algorithms
+- <big>**C Programming: Multi-Level Queue Dispatcher**</big> Implemented the logic of a multi-level queue dispatcher using C programming. Calculates performance metrics, directly prevents starvation, and uses both first come first served and round robin algorithms
+- <big>**Logisim Engineering: Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra**</big> Built Logisim circuits implementing boolean algebra, ripple carry adder/subtractor logic, and finite state moore machine. Used output equations, state transition tables, and D Flip-Flop registers to build the circuits
+- <big>**Java Programming: Word Completion Predictor**</big> Designed an autocomplete system to predict the word a user is attempting to type using binary search and HashMap algorithms. Wrote benchmark tests to compare efficiency
 - <big>**C Programming: Dynamic Data Handling and Recursive Computation**</big> Coded recursion, iterative and memory mangement methods in C. Worked with file parsing and direct data allocation
-- <big>**Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra**</big> Built Logisim circuits implementing boolean algebra, ripple carry adder/subtractor logic, and finite state moore machine. Used output equations, state transition tables, and D Flip-Flop registers to build the circuits
-- <big>**Markov Text Generator**</big> 
-- <big>**DNA Manipulation Simulator**</big>
-- <big>**Word Completion Predictor**</big>
+- <big>**Java Programming: Markov Text Generator**</big> Developed and trained predictive text generator model using n-gram Markov chains. Implemented both a brute force and a more efficient HashMap algorithm. Used interfaces, class hierarchy, arraylists, file I/O, and Big O runtime calculations
+- <big>**Java Programming: DNA Manipulation Simulator**</big> Simulated DNA manipulation with separate algorithms using Linked Lists, Strings, and StringBuilders. Had append, cut and slice, reverse, and nucleotideAt methods, as well as performance benchmarks to determine relationship between runtime efficiency and memory usage 
 
 *Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed frameworks, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
 **All files were included in some projects - the README files in those projects distinguish between algorithmic files (containing the actual problem-solving code) and other files (testing, GUI, etc.)
