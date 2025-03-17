@@ -25,5 +25,5 @@ ALl code is extensively commented to ensure readability and optimal clarity.
 - <big>**C Programming: Dynamic Data Handling and Recursive Computation**</big> Coded recursion, iterative and memory mangement methods in C. Worked with file parsing and direct data allocation
 - <big>**Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra**</big> Built Logisim circuits implementing boolean algebra, ripple carry adder/subtractor logic, and finite state moore machine. Used output equations, state transition tables, and D Flip-Flop registers to build the circuits
 
-*Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed frameworks, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective file. 
+*Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed frameworks, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective file.  
 **All files were included in some projects - the README files in those projects distinguish between algorithmic files (containing the actual problem-solving code) and other files (testing, GUI, etc.)
