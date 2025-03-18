@@ -48,7 +48,7 @@ This project suggests the next word based on a given prefix, similar to how text
 
 *GUI Autcomplete*
 - After compiling and running AutocompleteMain, user selects a dataset in the file selection window that appears
-- As the user begins typing a word in the search bar, the top K matching words appear and update dynamically 
+- As the user begins typing a word in the search bar, the top K matching words appear and update dynamically as the user keeps typing
 - Once the user clicks the correct suggestion or finishes typing the word and presses enter, a Google search opens for the word
 
 *Benchmark*
