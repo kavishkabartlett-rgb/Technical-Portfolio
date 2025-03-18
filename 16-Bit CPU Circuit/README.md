@@ -35,7 +35,7 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
 
 <big>**BitAdder16 & BitAdder1**</big> - BitAdder16 takes in 16 bit numbers, used in the ALU unit to perform addition calculations that can be used for memory address, offset, multiplcation, etc. 
 
-<big>**Barrel Bit Shifter (LeftShit & RightShift)**</big> - Takes in 16 bit number and can do left or right shift by 0-7 bits in a single operation (all bits move at once) using 3 shift stages
+<big>**LeftShit & RightShift (Barrel bit shifters) **</big> - Takes in 16 bit number and can do left or right shift by 0-7 bits in a single operation (all bits move at once) using 3 shift stages
 
 <big>**Control Path**</big> - Takes in opcode to determine specific instruction and activate control signals
 - <big>**Opcode Decoder**</big> - converts 4-bit binary opcode into output signals by activating the relevant control signals based on the logic of multiple AND, OR, and NOT gates
