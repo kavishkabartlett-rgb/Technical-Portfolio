@@ -14,14 +14,14 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
     - J-Type: j, jal
 
 ## Skills Used/Key Features in Each File
-*Names in parenthesis are names of files implementing similar skill/feature, ie sixteenBitRegister is the implementation of 16 RegisterFiles*
+*Names in parenthesis are names of files implementing the skill/feature, ie sixteenBitRegister is the implementation of 16 bit version of RegisterFile*
 
 <big>**Main**</big> - Uses the other files to create the entire CPU logic
 - <big>**ROM**</big> - Uses ROM to store instructions from a program 
 - <big>**Instruction Decoding**</big> - Splits intructions into opcode to determine instruction type, then splits further based on result (ie if there is rt, rs, and rt for R-type, rt and rs for I-type, or just address for J-type)
 - <big>**RAM**</big> - for loading and storing data from memory
 
-<big>**RegisterFile (& sixteenBitRegister)**</big> - Takes in 16 bit number and stores it in appropriate register
+<big>**RegisterFile (& SixteenBitRegister)**</big> - Takes in 16 bit number and stores it in appropriate register
 - <big>**8 16 Bit Registers**</big> - there are 8 general purpose registers, each capable of holding 16-bit numbers
 - <big>**Write/Read Operations**</big> - Control signals determine whether instruction is read/write, decoder determines which register to activate (actives specific write enabled or read enabled control signals), data is either committed to register or data is read and passed on
 
