@@ -14,7 +14,7 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
     - J-Type: j, jal
 
 ## Skills Used/Key Features in Each File
-*Names in parenthesis are names of files implementing the skill/feature, ie sixteenBitRegister is the implementation of 16 bit version of RegisterFile*
+*Names in parenthesis are the actual names of files implementing similar skill/feature, i.e. sixteenBitRegister is the implementation of 16 bit version of RegisterFile*
 
 <big>**Main**</big> - Uses the other files to create the entire CPU logic
 - <big>**ROM**</big> - Uses ROM to store instructions from a program 
