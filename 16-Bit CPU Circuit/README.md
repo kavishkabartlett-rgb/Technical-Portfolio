@@ -14,7 +14,7 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
     - J-Type: j, jal
 
 ## Skills Used/Key Features in Each File
-*Names in parenthesis are the actual name of the files*
+*Names in parenthesis are the actual name of the files implementing the skill/feature*
 
 <big>**Main**</big> - Uses the other files to create the entire CPU logic
 - <big>**ROM**</big> - Uses ROM to store instructions from a program 
