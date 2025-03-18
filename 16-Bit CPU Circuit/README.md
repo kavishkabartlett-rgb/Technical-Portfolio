@@ -14,18 +14,18 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
     - J-Type: j, jal
 
 ## Skills Used/Key Features in Each File
-*Names in parenthesis are the actual names of files implementing similar skill/feature, i.e. RegisterFile is the implementation of 8 versions of SixteenBitRegister*
+*Multiple files use similar skills/features, i.e. RegisterFile primarily uses 8 SixteenBitRegister files in its implementation* 
 
 <big>**Main**</big> - Uses the other files to create the entire CPU logic
 - <big>**ROM**</big> - Uses ROM to store instructions from a program 
 - <big>**Instruction Decoding**</big> - Splits intructions into opcode to determine instruction type, then splits further based on result (ie if there is rt, rs, and rt for R-type, rt and rs for I-type, or just address for J-type)
 - <big>**RAM**</big> - for loading and storing data from memory
 
-<big>**RegisterFile (& SixteenBitRegister)**</big> - Takes in 16 bit number and stores it in appropriate register
+<big>**RegisterFile & SixteenBitRegister**</big> - Takes in 16 bit number and stores it in appropriate register
 - <big>**8 16 Bit Registers**</big> - there are 8 general purpose registers, each capable of holding 16-bit numbers
 - <big>**Write/Read Operations**</big> - Control signals determine whether instruction is read/write, decoder determines which register to activate (actives specific write enabled or read enabled control signals), data is either committed to register or data is read and passed on
 
-<big>**16 bit Arithmetic Logic Unit (ALU)**</big> - Takes 16 bit numbers and performs calculations based on control signals
+<big>**ALU (16-bit Arithmetic Logic Unit)**</big> - Takes 16 bit numbers and performs calculations based on control signals
 - <big>**Arithmetic**</big> - addition, subtraction, add immediate, multiplication, division
 - All <big>**logical operations**</big> - AND, OR, NOT, NOR, etc. 
 - <big>**Shift Operations**</big> - left and right bit shifts
@@ -33,7 +33,7 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
 - <big>**Address Calculations**</big> - calculate address for load/store/jump and return
 - <big>**I/O**</big> - can print keyboard input to TTY display
 
-<big>**16 Bit Adder (BitAdder16 & BitAdder1)**</big> - Takes in 16 bit numbers, used in the ALU unit to perform addition calculations that can be used for memory address, offset, multiplcation, etc. 
+<big>**BitAdder16 & BitAdder1**</big> - BitAdder16 takes in 16 bit numbers, used in the ALU unit to perform addition calculations that can be used for memory address, offset, multiplcation, etc. 
 
 <big>**Barrel Bit Shifter (LeftShit & RightShift)**</big> - Takes in 16 bit number and can do left or right shift by 0-7 bits in a single operation (all bits move at once) using 3 shift stages
 
