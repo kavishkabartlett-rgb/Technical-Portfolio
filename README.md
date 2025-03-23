@@ -14,7 +14,7 @@ This repository showcases projects that demonstrate my proficiency in C, MIPS As
 - **Input and Output data:** Required data from the user and the expected results
 - **Next Steps:** Features to add that increase performance, runtime, and program ability
 
-ALl code is extensively commented to ensure readability and optimal clarity. 
+ALl code is extensively commented to ensure readability and optimal clarity. All Logisim projects contain an output folder containing pictures of the circuits found in the .circ files
 
 ## Project Summary
 *Projects are listed by decreasing order of complexity*
@@ -27,9 +27,9 @@ ALl code is extensively commented to ensure readability and optimal clarity.
 - <big>**Java Programming: Word Completion Predictor**</big> Designed an autocomplete system to predict the word a user is attempting to type using binary search and HashMap algorithms. Wrote benchmark tests to compare efficiency
 - <big>**C Programming: Dynamic Data Handling and Recursive Computation**</big> Coded recursion, iterative and memory mangement methods in C. Worked with file parsing and direct data allocation
 - <big>**Java Programming: Markov Text Generator**</big> Developed and trained predictive text generator model using n-gram Markov chains. Implemented both a brute force and a more efficient HashMap algorithm. Used interfaces, class hierarchy, arraylists, file I/O, and Big O runtime calculations
-- <big>**Java Programming: DNA Manipulation Simulator**</big> Simulated DNA manipulation with separate algorithms using Linked Lists, Strings, and StringBuilders. Had append, cut and slice, reverse, and nucleotideAt methods, as well as performance benchmarks to determine relationship between runtime efficiency and memory usage 
 - <big>**Java Programming: US Map Route Planning Algorithm**</big> Simulate US road infrastructure with a graph structre (vertices, edges, edge weights), calculates the shortest route between two user-provided cities using Djikstra's algorithm, draws the route over US map, and outputs execution time and total route distance
 - <big>**Java Programming: Huffman Encoding and Decoding**</big> Created a Huffman tree to encode and decode raw images and text. Used priority queues to ensure the highest occuring characters are represented with the shortest binary sequences 
+- <big>**Java Programming: DNA Manipulation Simulator**</big> Simulated DNA manipulation with separate algorithms using Linked Lists, Strings, and StringBuilders. Had append, cut and slice, reverse, and nucleotideAt methods, as well as performance benchmarks to determine relationship between runtime efficiency and memory usage 
 
 *Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed framework, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
 **All files were included in some projects - the README files in those projects distinguish between algorithmic files (ordered by importance) and other files (used for testing, GUI, etc.). If data files were used to test my programs, I included them in a separate Data folder 
