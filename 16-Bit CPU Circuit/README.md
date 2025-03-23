@@ -19,7 +19,7 @@ Considering I have built all of these gates on breadboards before, I could build
 ## Skills Used/Key Features in Each File
 *Multiple files use similar skills/features, i.e. RegisterFile primarily uses 8 SixteenBitRegister files in its implementation* 
 *Example Outputs has pictures of each circuit file, every black box with a name at the bottom is a representation of another file. For example, in main, the box named
-BitAdder16 is a representation of the file BitAdder16. The wires going into the left are inputs, the wires coming out are outputs. So the wire going into in0 corresponds to *
+BitAdder16 is a representation of the file BitAdder16. The wires going into the left are inputs, the wires coming out are outputs. So the wire going into in0 corresponds to*
 
 
 
