@@ -1,7 +1,10 @@
 #                   Single Cycle CPU 
 
 ## Overview
-This project build a 16-bit, RISC processor capable of fully executing 16 unique R, I, and J MIPS assembly instructions. The processor is word-addressed, with each word equalling 2 bytes, and follows a single-cycle architecture. The design is built through Logisim using only AND, OR, XOR, NOT, MUX, ROM, RAM, decoders, and D FLip-Flop Registers. All of these components, exluding ROM and RAM, can be created on breadboards. Multiplexer (MUX), decoders, and D Flip-Flop Registers can all be created using the basic gates (AND, NAND, NOR, etc), which in turn can all be created on a breadboard with only diodes, wires, and resistors. Considering I have built all of these gates on breadboards before, I could build a fully-functioning CPU with only a breadboard and the 3 most basic electrical components. However, it would require tens of thousands of diodes, resistors, and wires each, making it theoretically, but practically, impossible. 
+This project build a 16-bit, RISC processor capable of fully executing 16 unique R, I, and J MIPS assembly instructions. 
+The processor is word-addressed, with each word equalling 2 bytes, and follows a single-cycle architecture. The design is built through Logisim using only AND, OR, XOR, NOT, MUX, ROM, RAM, decoders, and D FLip-Flop Registers. 
+All of these components, exluding ROM and RAM, can be created on breadboards. Multiplexer (MUX), decoders, and D Flip-Flop Registers can all be created using the basic gates (AND, NAND, NOR, etc), which in turn can all be created on a breadboard with only diodes, wires, and resistors. 
+Considering I have built all of these gates on breadboards before, I could build a fully-functioning CPU with only a breadboard and the 3 most basic electrical components. However, it would require tens of thousands of diodes, resistors, and wires each, making it theoretically, but practically, impossible.
 
 ## Processor Architecture
 1) 16-bit word-addressed design
@@ -15,6 +18,10 @@ This project build a 16-bit, RISC processor capable of fully executing 16 unique
 
 ## Skills Used/Key Features in Each File
 *Multiple files use similar skills/features, i.e. RegisterFile primarily uses 8 SixteenBitRegister files in its implementation* 
+*Example Outputs has pictures of each circuit file, every black box with a name at the bottom is a representation of another file. For example, in main, the box named
+BitAdder16 is a representation of the file BitAdder16. The wires going into the left are inputs, the wires coming out are outputs. So the wire going into in0 corresponds to *
+
+
 
 <big>**Main**</big> - Uses the other files to create the entire CPU logic
 - <big>**ROM**</big> - Uses ROM to store instructions from a program 
