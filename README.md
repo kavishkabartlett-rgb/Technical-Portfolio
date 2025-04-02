@@ -36,4 +36,4 @@ ALl code is extensively commented to ensure readability and optimal clarity. All
 
 ## Papers
 
-This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from my personal fascination with politics, theoretical astrophysics, philosophy, and Artifical General Intelligence. Included in the folder is a transcript of an AI speech I presented, a Supreme Court Op-Ed, a philosophical exhibition, aerospace case study, and several theoretical physic reserach papers.       
+This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from my personal fascination with politics, theoretical astrophysics, philosophy, and Artifical General Intelligence. Included in the folder is a transcript of an AI speech I performed, a Supreme Court Op-Ed, a philosophical exhibition, aerospace case study, and several theoretical physic reserach papers.       
