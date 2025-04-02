@@ -33,3 +33,7 @@ ALl code is extensively commented to ensure readability and optimal clarity. All
 
 *Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed framework, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
 **All files were included in some projects - the README files in those projects distinguish between algorithmic files (ordered by importance) and other files (used for testing, GUI, etc.). If data files were used to test my programs, I included them in a separate Data folder 
+
+## Papers
+
+This portfolio contains a selected collection of written work accumulated across multiple years. Some came from academia, others from my personal fascination with politics, theoretical astrophysics, philosophy, and Artifical General Intelligence. Included in the folder is a speech I presented at a summer workshop, an Op-Ed, an exhibition, a case study, and several reserach papers.       
