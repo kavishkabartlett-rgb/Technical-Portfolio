@@ -1,6 +1,6 @@
 # Overview 
 
-This folders contains PDF files of various reserach, philosophical, and Op-Ed writings I have completed throughout the years. Some were for academic classes, others were for personal curiosity. The following briefly describes each writing piece and its contents:
+This folders contains PDF files of various reserach, philosophical, and Op-Ed writings I have completed throughout the years. Some were for academic classes, others were for personal curiosity. The following briefly describes each writing piece and its contents in no particular order:
 
 - <big>**The Great Divide: Unifying Quantum Mechanics and General Relativity**</big> By exploring black holes, neutrinos, the Heisenburg Uncertainty Principle, the Information Paradox, and quantum operators, I examine the contradictions between General Relativity and Quantum Mechanics, explaining the significance of the problem, potential solutions, and next steps. 
 - <big>**From Entanglement to Endgame: An Exploration of Quantum Mechanics and Its Media Misrepresentation**</big> In the cinematic universe, screenwriters often invoke quantum mechanics to scientifically explain a phenomena needed for the plot, regardless of its connection to the field. This essay analyzes the impact of misrepresentation, while covering key quantum mechanic principles, such as Bells Inequality Theorem, Wave-Particle Duality/Wavefunction, Superposition, and the Double-Slit Experiment 
