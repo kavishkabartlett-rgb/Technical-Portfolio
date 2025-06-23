@@ -31,7 +31,7 @@ All code is extensively commented to ensure readability and optimal clarity. All
 - <big>**Java Programming: Huffman Compression and Decompression**</big> Created a Huffman tree to encode and decode raw images and text. Used priority queues to ensure the highest occuring characters are represented with the shortest binary sequences 
 - <big>**Java Programming: DNA Manipulation Simulator**</big> Simulated DNA manipulation with separate algorithms using Linked Lists, Strings, and StringBuilders. Had append, cut and slice, reverse, and nucleotideAt methods, as well as performance benchmarks to determine relationship between runtime efficiency and memory usage 
 
-*Some of the projects were assigned by Duke University or University of Sydney. Whenever the instructors contributed framework, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
+*Some of the projects were assigned by Duke University or the University of Sydney. Whenever the instructors contributed framework, coding segments, or testing files to my projects, they were tagged as an author at the top of their respective files.  
 **All files were included in some projects - the README files in those projects distinguish between algorithmic files (ordered by importance) and other files (used for testing, GUI, etc.). If data files were used to test my programs, I included them in a separate Data folder 
 
 ## Papers
