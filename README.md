@@ -15,6 +15,9 @@ This repository showcases advanced projects that demonstrate my proficiency in C
 - **Next Steps:** Features to add that increase performance, runtime, and program ability
 
 All code is extensively commented to ensure readability and optimal clarity. All Logisim projects contain an output folder containing pictures of the circuits found in the .circ files
+## Research Summary
+
+- <big>**CFD**</big>
 
 ## Project Summary
 *Projects are listed by decreasing order of complexity*
