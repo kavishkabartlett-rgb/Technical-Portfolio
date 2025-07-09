@@ -1,0 +1,13 @@
+==========================================
+SLURM_JOB_ID = 919726
+SLURM_JOB_NODELIST = a03-07
+TMPDIR = /tmp/SLURM_919726
+==========================================
+Hello from rank 6!
+Hello from rank 7!
+Hello from rank 4!
+Hello from rank 5!
+Hello from rank 3!
+Hello from rank 2!
+Hello from rank 1!
+Hello from rank 0!
