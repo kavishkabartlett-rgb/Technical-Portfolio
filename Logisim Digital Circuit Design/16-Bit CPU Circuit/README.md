@@ -1,7 +1,7 @@
 #                   Single Cycle CPU 
 
 ## Note: 
-To see images of circuit, go to Outputs. Each name corresponds to their particular file, while Main is a image of the entire CPU
+To see images of the circuits, go to the Outputs directory. Each name corresponds to their particular file, while Main is a image of the entire CPU
 
 ## Overview
 This project build a 16-bit, RISC processor capable of fully executing 16 unique R, I, and J MIPS assembly instructions. 
