@@ -19,7 +19,10 @@ All code is extensively commented to ensure readability and optimal clarity. All
 
 ## Research Summary
 
-- <big>**CFD**</big>
+- <big>**Parallelization - Kokkos, CUDA, Open MPI**</big> Worked with Kokkos, Open MPI, and CUDA programming to parallelize expensive computations across CPU threads and cores, GPU threads and cores, and multiple CPU/GPU hybrid nodes in HPC clusters. 
+- <big>**Physics-Informed Neural Networks**</big> Used activation functions, loss functions, overfitting and regularization deep learning techniques to train, validate, and test the expressivity of self-created physics-informed neural networks, replacing costly CFD simulations with pattern prediction
+- <big>**Optimization**</big> Used Gradient-Descent and stochastic optimization, as well as Lagrange Multiplers and Quasi-Newton Methods to enhance my diffusion and surrogate neural networks  
+- <big>**Grid Generation**</big> Used Delaunay Grid Generation to create unstructured grids suitable for a wide variety of object geometries 
 
 ## Project Summary
 *Projects are listed by decreasing order of complexity*
