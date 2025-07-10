@@ -1,4 +1,4 @@
-# 2025 Electrical and Computer Engineering and Computer Science Portfolio 
+# Kavishka Bartlett Technical Portfolio
 
 ## Overview 
 
