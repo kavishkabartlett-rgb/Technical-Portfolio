@@ -1,6 +1,6 @@
 #                   Single Cycle CPU 
 
-##Note: 
+## Note: 
 To see images of circuit, go to Outputs. Each name corresponds to their particular file, while Main is a image of the entire CPU
 
 ## Overview
