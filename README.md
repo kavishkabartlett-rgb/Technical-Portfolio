@@ -17,6 +17,13 @@ am using parallelism, physic-informed neural networks, and deep learning surroga
 
 All code is extensively commented to ensure readability and optimal clarity. All Logisim projects contain an output folder containing pictures of the circuits found in the .circ files
 
+## Organization
+<big>**CFD Research: Deep Learning and Parallelism in Computational Fluid Dynamics**</big> Contains CFD Solver Python, CFD Solver Fortran, CUDA Programming, Diffusion 
+<big>**C Programming**</big>
+<big>**Java Programming**</big>
+<big>**Logisim Circuit Design**</big>
+<big>**MIPS Assembly Language Programming**</big> 
+<big>**Papers**</big>
 ## Research Summary
 
 - <big>**Parallelization - Kokkos, CUDA, Open MPI**</big> Worked with Kokkos, Open MPI, and CUDA programming to parallelize expensive computations across CPU threads and cores, GPU threads and cores, and multiple CPU/GPU hybrid nodes in HPC clusters. 
