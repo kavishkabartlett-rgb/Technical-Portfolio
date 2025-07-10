@@ -1,5 +1,8 @@
 #                   Single Cycle CPU 
 
+##Note: 
+To see images of circuit, go to Outputs. Each name corresponds to their particular file, while Main is a image of the entire CPU
+
 ## Overview
 This project build a 16-bit, RISC processor capable of fully executing 16 unique R, I, and J MIPS assembly instructions. 
 The processor is word-addressed, with each word equalling 2 bytes, and follows a single-cycle architecture. The design is built through Logisim using only AND, OR, XOR, NOT, MUX, ROM, RAM, decoders, and D FLip-Flop Registers. 
