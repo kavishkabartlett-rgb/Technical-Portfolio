@@ -21,11 +21,11 @@ All code is extensively commented to ensure readability and optimal clarity. All
 Each folder contains the following projects: 
 
 <big>**CFD Research: Deep Learning and Parallelism in Computational Fluid Dynamics**</big> CFD Solver Python, CFD Solver Fortran, CUDA Programming, Diffusion Modules, Gradient Descent Optimization,
-Kokkos Programming, Open MPI Programming, Operator Networks, Physics-Informed Neural Networks, Unstructured Grid Generation 
-<big>**C Programming**</big> Dynamic Data Handling and Recursive Computations, Multi-Level Queue Dispatcher, Parallel Synchonization in Multi-threaded Lab Simulation 
-<big>**Java Programming**</big> DNA Manipulation Simulator, Huffman Coding Compression and Decompression, Markov Model, US Map Route Planner, Word Completion Predictor 
-<big>**Logisim Circuit Design**</big> 16-Bit CPU Circuit, Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra 
-<big>**MIPS Assembly Language Programming**</big> Recursion, Computations, and Dynamic Structures 
+Kokkos Programming, Open MPI Programming, Operator Networks, Physics-Informed Neural Networks, Unstructured Grid Generation  
+<big>**C Programming**</big> Dynamic Data Handling and Recursive Computations, Multi-Level Queue Dispatcher, Parallel Synchonization in Multi-threaded Lab Simulation  
+<big>**Java Programming**</big> DNA Manipulation Simulator, Huffman Coding Compression and Decompression, Markov Model, US Map Route Planner, Word Completion Predictor  
+<big>**Logisim Circuit Design**</big> 16-Bit CPU Circuit, Digital Logic Circuits: Finite State Machines, Adders, and Boolean Algebra  
+<big>**MIPS Assembly Language Programming**</big> Recursion, Computations, and Dynamic Structures  
 <big>**Papers**</big> Philosophy, Quantum Mechanics, Politics  
 ## Research Summary
 
