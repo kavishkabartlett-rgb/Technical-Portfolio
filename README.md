@@ -5,7 +5,7 @@
 My name is Kavishka Bartlett, and I am an undergraduate student at Duke University pursuing a double major in Electrical/Computer Engineering (ECE) and Computer Science (CS) with a minor in Mathmatics. I am also conducting a research project with Dr. Dowell and Dr. Thomas in the Duke Aeroelasticity group. 
 
 This repository showcases advanced projects that demonstrate my proficiency in C, MIPS Assembly, Java, and Logisim, focusing on low-level programming, hardware design, operating system logic, and multi-threaded parallel synchronization among others.* Additionally, it highlights my current research project, where I
-am investigating using parallelism, physic-informed neural networks, and deep learning surrogate models to dramatically accelerate fluid flow modeling. As my research is still ongoing, files found in the research directory may be unpolished and subject to change. All other directories contain fully completed projects as well as detailed README files containing the following: 
+am using parallelism, physic-informed neural networks, and deep learning surrogate models to dramatically accelerate fluid flow modeling. As my research is still ongoing, files found in the research directory may be unpolished and subject to change. All other directories, however, contain fully completed projects as well as detailed README files following this universal structure: 
 
 - **Overview:** Brief project description 
 - **Detailed Overview/architecture:** System design, implementation details, and structure
@@ -44,4 +44,4 @@ All code is extensively commented to ensure readability and optimal clarity. All
 
 ## Papers
 
-This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from my personal fascination with politics, theoretical astrophysics, philosophy, and Artifical General Intelligence. Included in the folder is a transcript of an AI speech I performed, a Supreme Court Op-Ed, a philosophical exhibition, aerospace case study, and several theoretical physic reserach papers.       
+This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from my personal fascination with Quantum Mechanics, politics, theoretical astrophysics, and philosophy. Included in the folder is a transcript of an AI speech I performed, a Supreme Court Op-Ed, a philosophical exhibition, Aerospace Financial/Management case study, and several theoretical physic research papers.       
