@@ -2,7 +2,7 @@
 
 ## Overview 
 
-My name is Kavishka Bartlett, and I am an undergraduate student at Duke University pursuing a double major in Electrical/Computer Engineering (ECE) and Computer Science (CS) with a minor in Mathmatics. I am also conducting a research project with Dr. Dowell and Dr. Thomas in the Duke Aeroelasticity group. 
+My name is Kavishka Bartlett, and I am an undergraduate student at Duke University pursuing a double major in Electrical/Computer Engineering (ECE) and Computer Science (CS) with a minor in Mathmatics. I am also conducting research with Dr. Dowell and Dr. Thomas as part of the Duke Aeroelasticity group. 
 
 This repository showcases advanced projects that demonstrate my proficiency in C, MIPS Assembly, Java, and Logisim, focusing on low-level programming, hardware design, operating system logic, and multi-threaded parallel synchronization among others.* Additionally, it highlights my current research project, where I
 am using parallelism, physic-informed neural networks, and deep learning surrogate models to dramatically accelerate fluid flow modeling. As my research is still ongoing, files found in the research directory may be unpolished and subject to change. All other directories, however, contain fully completed projects as well as detailed README files following this universal structure: 
