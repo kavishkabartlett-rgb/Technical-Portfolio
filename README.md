@@ -37,7 +37,7 @@ Each folder contains the following projects:
 ## Project Summary
 *Projects are listed by decreasing order of complexity*
 
-- <big>**Logisim Engineering: 16-Bit CPU Circuit**</big> Built a fully functional 16-bit CPU with only basic logic structures (logic gates, mux, splitters) capable of executing MIPS Assembly programs
+- <big>**Logisim Engineering: 16-Bit CPU Circuit**</big> Built a fully functional 16-bit CPU with only basic logic structures (logic gates, mux, splitters) capable of executing MIPS Assembly programs I wrote
 - <big>**C Programming: Parallel Synchronization in Multi-threaded Lab Simulation**</big> Worked with operating system logic using the pthread.h library in C. Used multiple mutexes and conditional variables to allow multiple threads to run at the exact same time while preventing data corruption
 - <big>**MIPS Assembly Language Programming: Recursion, Computations, and Dynamic Structures**</big> Wrote 3 programs in MIPS Assembly implementing recursion, iterative, and memory management problem-solving techniques. Each program can be run on the 16-bit CPU I built
 - <big>**C Programming: Multi-Level Queue Dispatcher**</big> Implemented the logic of a multi-level queue dispatcher using C programming. Calculates performance metrics, directly prevents starvation, and uses both first come first served and round robin algorithms
