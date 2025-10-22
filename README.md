@@ -54,4 +54,4 @@ Each folder contains the following projects:
 
 ## Papers
 
-This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from my personal fascination with Quantum Mechanics, politics, theoretical astrophysics, and philosophy. Included in the folder is a transcript of an AI speech I performed, a Supreme Court Op-Ed, a philosophical exhibition, Aerospace Financial/Management case study, and several theoretical physic research papers.       
+This portfolio also contains a selected collection of written work I created over the past few years. Some came from academic assignments, others from personal fascination with quantum mechanics, politics, theoretical astrophysics, and philosophy. Included in the folder is a transcript of an AI speech I performed, Supreme Court Op-Ed, philosophical exhibition, Aerospace Financial/Management case study, and several theoretical physics research papers.       
